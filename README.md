@@ -11,7 +11,7 @@
 
 *Transforming fragmented taxi operational data into actionable business intelligence through dependable, production-ready data pipelines.*
 
-[Features](#-key-features) • [Quick Start](#-quick-start) • [Architecture](#-architecture) • [Demo](#-demo-video) • [Documentation](#-documentation)
+[Features](#-key-features) • [Quick Start](#-quick-start) • [Architecture](#-architecture) • [Documentation](#-documentation)
 
 </div>
 
@@ -96,7 +96,7 @@ Jupyter Notebook
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/fde-nyc-taxi-pipeline.git
+git clone https://github.com/vanshitm12/fde-nyc-taxi-pipeline.git
 cd fde-nyc-taxi-pipeline
 
 # 2. Create virtual environment
@@ -211,20 +211,6 @@ fde-nyc-taxi-pipeline/
 ├── LOOM_VIDEO_GUIDE.md               # Video recording instructions
 └── requirements.txt                  # Python dependencies
 ```
-
----
-
-## 🎥 Demo Video
-
-> **3-Minute Walkthrough**: Problem → Solution → Dashboard
-
-*[🎬 Watch on Loom](#)* *(Add your link after recording)*
-
-### Video Highlights
-1. **Business Context** (0:00-0:30): Why this matters
-2. **Key FDE Decision** (0:30-2:30): Zero-distance validation logic
-3. **Pipeline Execution** (2:30-3:00): End-to-end run
-4. **Dashboard Output** (3:00-3:30): Metrics & insights
 
 ---
 
@@ -414,7 +400,7 @@ tail -100 logs/pipeline_$(date +%Y%m%d).log
 
 ```bash
 # Clone and setup
-git clone https://github.com/YOUR-USERNAME/fde-nyc-taxi-pipeline.git
+git clone https://github.com/vanshitm12/fde-nyc-taxi-pipeline.git
 cd fde-nyc-taxi-pipeline
 python3 -m venv venv
 source venv/bin/activate
@@ -459,13 +445,12 @@ MIT License - See [LICENSE](LICENSE) file for details
 ## 📧 Contact & Support
 
 ### Author
-**Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+**Vanshit Malik**  
+🔗 [GitHub](https://github.com/vanshitm12)
 
 ### Issues & Questions
-- 🐛 [Report Bugs](https://github.com/YOUR-USERNAME/fde-nyc-taxi-pipeline/issues)
-- 💡 [Request Features](https://github.com/YOUR-USERNAME/fde-nyc-taxi-pipeline/issues)
+- 🐛 [Report Bugs](https://github.com/vanshitm12/fde-nyc-taxi-pipeline/issues)
+- 💡 [Request Features](https://github.com/vanshitm12/fde-nyc-taxi-pipeline/issues)
 - 📖 [View Documentation](docs/)
 
 ---

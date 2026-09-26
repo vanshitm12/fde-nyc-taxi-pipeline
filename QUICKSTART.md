@@ -212,7 +212,7 @@ Edit `src/ingestion/fetch_csv.py`:
 
 1. ✅ **Test the pipeline** - Make sure everything runs
 2. ✅ **Push to GitHub** - Create a public repo and push this code
-3. ✅ **Record Loom video** - Follow LOOM_VIDEO_GUIDE.md
+3. ✅ **Record Loom video** - Follow VIDEO_RECORDING_GUIDE.md
 4. ✅ **Update README** - Add your Loom video link
 5. ✅ **Submit** - GitHub URL + Loom URL
 
@@ -220,7 +220,7 @@ Edit `src/ingestion/fetch_csv.py`:
 
 ## 🎥 Recording Your Demo
 
-See **LOOM_VIDEO_GUIDE.md** for detailed instructions.
+See **VIDEO_RECORDING_GUIDE.md** for detailed instructions.
 
 **Quick version:**
 1. Open Loom, start screen recording

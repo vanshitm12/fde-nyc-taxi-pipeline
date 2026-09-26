@@ -70,13 +70,13 @@ open data/output/dashboard_202401.html
 
 **Step 2:** Push from terminal
 ```bash
-git remote add origin https://github.com/YOUR-USERNAME/fde-nyc-taxi-pipeline.git
+git remote add origin https://github.com/vanshitm12/fde-nyc-taxi-pipeline.git
 git branch -M main
 git push -u origin main
 ```
 
 **Step 3:** Verify
-- Visit: https://github.com/YOUR-USERNAME/fde-nyc-taxi-pipeline
+- Visit: https://github.com/vanshitm12/fde-nyc-taxi-pipeline
 - You should see all files including the beautiful README
 
 ---
@@ -144,7 +144,7 @@ dashboard/advanced_dashboard.py ← Dashboard generator
 1. ✅ Test pipeline is working: `python src/pipeline/main_pipeline.py --reset-checkpoint`
 2. ✅ Open advanced dashboard: `open data/output/dashboard_advanced_202401.html`
 3. ✅ Open validation code: `open src/validation/validators.py` (lines 105-125)
-4. ✅ Read LOOM_VIDEO_GUIDE.md for detailed script
+4. ✅ Read VIDEO_RECORDING_GUIDE.md for detailed script
 
 ### Video Structure (3-5 minutes):
 ```
@@ -159,7 +159,7 @@ dashboard/advanced_dashboard.py ← Dashboard generator
 1. Sign up: https://www.loom.com (free)
 2. Install Loom desktop app or Chrome extension
 3. Select "Screen + Camera" or "Screen Only"
-4. Follow the detailed script in LOOM_VIDEO_GUIDE.md
+4. Follow the detailed script in VIDEO_RECORDING_GUIDE.md
 5. Record, trim if needed, copy link
 
 ---
@@ -183,7 +183,7 @@ dashboard/advanced_dashboard.py ← Dashboard generator
   Or manually with steps above
 
 - [ ] **Record Loom Video** (3-5 min)
-  - Follow LOOM_VIDEO_GUIDE.md
+  - Follow VIDEO_RECORDING_GUIDE.md
   - Focus on zero-distance validation judgment
   - Show the advanced dashboard
 
@@ -197,7 +197,7 @@ dashboard/advanced_dashboard.py ← Dashboard generator
   ```
 
 - [ ] **Submit Both URLs**
-  - ✓ GitHub: https://github.com/YOUR-USERNAME/fde-nyc-taxi-pipeline
+  - ✓ GitHub: https://github.com/vanshitm12/fde-nyc-taxi-pipeline
   - ✓ Loom: https://www.loom.com/share/YOUR-VIDEO-ID
 
 ---
@@ -298,14 +298,14 @@ open data/output/dashboard_advanced_202401.html
 ### 3. Record Video (30 min including practice)
 ```bash
 # Read the guide
-open LOOM_VIDEO_GUIDE.md
+open VIDEO_RECORDING_GUIDE.md
 
 # Practice once, then record
 # 3-5 minutes, focus on zero-distance judgment
 ```
 
 ### 4. Submit (2 min)
-- GitHub URL: https://github.com/YOUR-USERNAME/fde-nyc-taxi-pipeline
+- GitHub URL: https://github.com/vanshitm12/fde-nyc-taxi-pipeline
 - Loom URL: https://www.loom.com/share/YOUR-VIDEO-ID
 
 ---
@@ -331,7 +331,7 @@ Your project is:
 
 Check these files:
 - `QUICKSTART.md` - 5-minute setup guide
-- `LOOM_VIDEO_GUIDE.md` - Video recording instructions
+- `VIDEO_RECORDING_GUIDE.md` - Video recording instructions
 - `README.md` - Complete documentation
 - `docs/source_map.md` - Data source details
 
