@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-09-26T22:53:20.187150",
+  "validation_stats": {
+    "total_records": 10000,
+    "valid": 9886,
+    "invalid": 114,
+    "suspicious": 0,
+    "failure_reasons": {
+      "negative_fare": 48,
+      "zero_distance_valid_waiting": 53,
+      "zero_distance_invalid": 46,
+      "time_paradox": 20
+    }
+  },
+  "completion_rate": 98.86
+}

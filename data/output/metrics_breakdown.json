@@ -1,0 +1,238 @@
+{
+  "by_hour": {
+    "0": {
+      "trip_count": 416,
+      "avg_duration": 20.474576942067305,
+      "avg_fare": 26.173897236721345
+    },
+    "1": {
+      "trip_count": 421,
+      "avg_duration": 19.300799032145687,
+      "avg_fare": 25.49805708461886
+    },
+    "2": {
+      "trip_count": 411,
+      "avg_duration": 19.491009947080293,
+      "avg_fare": 24.737151035954426
+    },
+    "3": {
+      "trip_count": 395,
+      "avg_duration": 19.905136685147678,
+      "avg_fare": 25.772708170027126
+    },
+    "4": {
+      "trip_count": 426,
+      "avg_duration": 20.66720835477308,
+      "avg_fare": 25.950776002315184
+    },
+    "5": {
+      "trip_count": 433,
+      "avg_duration": 20.34984526443418,
+      "avg_fare": 25.661102858989388
+    },
+    "6": {
+      "trip_count": 402,
+      "avg_duration": 20.11058807699005,
+      "avg_fare": 26.1133605459406
+    },
+    "7": {
+      "trip_count": 378,
+      "avg_duration": 20.32663910432099,
+      "avg_fare": 25.85790326935546
+    },
+    "8": {
+      "trip_count": 367,
+      "avg_duration": 20.284498638237963,
+      "avg_fare": 26.134013003974616
+    },
+    "9": {
+      "trip_count": 406,
+      "avg_duration": 20.01809691272578,
+      "avg_fare": 25.885818605456972
+    },
+    "10": {
+      "trip_count": 415,
+      "avg_duration": 20.37496199220884,
+      "avg_fare": 26.26178828028727
+    },
+    "11": {
+      "trip_count": 428,
+      "avg_duration": 19.71644521814642,
+      "avg_fare": 26.370476734068383
+    },
+    "12": {
+      "trip_count": 426,
+      "avg_duration": 21.5554582349374,
+      "avg_fare": 26.618893198566653
+    },
+    "13": {
+      "trip_count": 416,
+      "avg_duration": 18.982922611378207,
+      "avg_fare": 25.335767923881193
+    },
+    "14": {
+      "trip_count": 411,
+      "avg_duration": 20.64792940681265,
+      "avg_fare": 26.446346601510097
+    },
+    "15": {
+      "trip_count": 386,
+      "avg_duration": 19.525836346113987,
+      "avg_fare": 25.598934912891327
+    },
+    "16": {
+      "trip_count": 416,
+      "avg_duration": 19.40832716330128,
+      "avg_fare": 26.221853278767103
+    },
+    "17": {
+      "trip_count": 406,
+      "avg_duration": 20.953073872578,
+      "avg_fare": 26.148262459022714
+    },
+    "18": {
+      "trip_count": 414,
+      "avg_duration": 19.82945329810789,
+      "avg_fare": 25.71305278844061
+    },
+    "19": {
+      "trip_count": 429,
+      "avg_duration": 19.683189664646466,
+      "avg_fare": 25.326180776962897
+    },
+    "20": {
+      "trip_count": 417,
+      "avg_duration": 20.880318134212633,
+      "avg_fare": 26.105136967237744
+    },
+    "21": {
+      "trip_count": 413,
+      "avg_duration": 20.872222671146087,
+      "avg_fare": 27.144657979048446
+    },
+    "22": {
+      "trip_count": 429,
+      "avg_duration": 20.920948018725717,
+      "avg_fare": 26.644571088180648
+    },
+    "23": {
+      "trip_count": 425,
+      "avg_duration": 18.620162006039216,
+      "avg_fare": 24.828625254473817
+    }
+  },
+  "by_day_of_week": {
+    "Wednesday": {
+      "trip_count": 1295,
+      "avg_duration": 19.99901243211068,
+      "avg_fare": 25.664211600375204
+    },
+    "Thursday": {
+      "trip_count": 1299,
+      "avg_duration": 19.889363461868104,
+      "avg_fare": 25.505357346726342
+    },
+    "Monday": {
+      "trip_count": 1755,
+      "avg_duration": 19.50979804190883,
+      "avg_fare": 25.70037183324161
+    },
+    "Tuesday": {
+      "trip_count": 1697,
+      "avg_duration": 20.4282379579454,
+      "avg_fare": 26.449843504313883
+    },
+    "Sunday": {
+      "trip_count": 1301,
+      "avg_duration": 20.90521561559057,
+      "avg_fare": 26.575033563249026
+    },
+    "Friday": {
+      "trip_count": 1287,
+      "avg_duration": 19.873030834459986,
+      "avg_fare": 25.108301271900707
+    },
+    "Saturday": {
+      "trip_count": 1252,
+      "avg_duration": 20.370133922058038,
+      "avg_fare": 26.512456930917487
+    }
+  },
+  "by_borough": {
+    "Bronx": {
+      "trip_count": 1578,
+      "avg_duration": 19.83602308168568,
+      "avg_fare": 25.423603079874177
+    },
+    "Manhattan": {
+      "trip_count": 2639,
+      "avg_duration": 20.13255691239106,
+      "avg_fare": 25.74219760318495
+    },
+    "Queens": {
+      "trip_count": 2588,
+      "avg_duration": 20.021539366634467,
+      "avg_fare": 26.194789533861226
+    },
+    "Brooklyn": {
+      "trip_count": 2237,
+      "avg_duration": 20.443230233035315,
+      "avg_fare": 26.373272471500755
+    },
+    "Staten Island": {
+      "trip_count": 796,
+      "avg_duration": 19.781114970498326,
+      "avg_fare": 25.311730546909995
+    },
+    "EWR": {
+      "trip_count": 48,
+      "avg_duration": 24.896332117013888,
+      "avg_fare": 30.185004327250912
+    }
+  },
+  "by_trip_type": {
+    "medium_trip": {
+      "trip_count": 5140,
+      "avg_duration": 20.10789015614786,
+      "avg_fare": 24.597697907719912
+    },
+    "long_trip": {
+      "trip_count": 1552,
+      "avg_duration": 20.128783392235825,
+      "avg_fare": 36.518172870900116
+    },
+    "short_trip": {
+      "trip_count": 2766,
+      "avg_duration": 19.968462836834178,
+      "avg_fare": 18.53446930125483
+    },
+    "very_long_trip": {
+      "trip_count": 375,
+      "avg_duration": 21.814862715999997,
+      "avg_fare": 55.42631414895588
+    },
+    "waiting_charge": {
+      "trip_count": 53,
+      "avg_duration": 17.194991178301887,
+      "avg_fare": 24.12579727978012
+    }
+  },
+  "by_payment_method": {
+    "Cash": {
+      "trip_count": 2507,
+      "avg_fare": 23.38063961304588
+    },
+    "Credit Card": {
+      "trip_count": 6855,
+      "avg_fare": 27.023741496734072
+    },
+    "No Charge": {
+      "trip_count": 310,
+      "avg_fare": 23.86478255876011
+    },
+    "Dispute": {
+      "trip_count": 214,
+      "avg_fare": 24.192311341314426
+    }
+  }
+}

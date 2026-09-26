@@ -1,0 +1,48 @@
+{
+  "total_trips": 9886,
+  "valid_trips": 9886,
+  "suspicious_trips": 0,
+  "date_range": {
+    "start": "2024-01-01 00:04:00",
+    "end": "2024-01-30 23:59:00"
+  },
+  "trip_types": {
+    "medium_trip": 5140,
+    "short_trip": 2766,
+    "long_trip": 1552,
+    "very_long_trip": 375,
+    "waiting_charge": 53
+  },
+  "peak_hour_trips": 1133,
+  "weekend_trips": 2553,
+  "payment_methods": {
+    "Credit Card": 6855,
+    "Cash": 2507,
+    "No Charge": 310,
+    "Dispute": 214
+  },
+  "top_pickup_zones": {
+    "Governor's Island/Ellis Island/Liberty Island": 113,
+    "Corona": 67,
+    "Seaport": 59,
+    "Hamilton Heights": 55,
+    "Bellerose": 54,
+    "Arden Heights": 53,
+    "West Chelsea/Hudson Yards": 53,
+    "Lincoln Square East": 53,
+    "Briarwood/Jamaica Hills": 52,
+    "Freshkills Park": 50
+  },
+  "top_dropoff_zones": {
+    "Governor's Island/Ellis Island/Liberty Island": 116,
+    "Corona": 79,
+    "Jackson Heights": 53,
+    "Randalls Island": 52,
+    "Fordham South": 51,
+    "Clinton Hill": 50,
+    "East Harlem North": 50,
+    "Brownsville": 50,
+    "Country Club": 50,
+    "Crotona Park": 50
+  }
+}

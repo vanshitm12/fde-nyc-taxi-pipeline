@@ -1,0 +1,37 @@
+{
+  "INGEST": {
+    "status": "completed",
+    "timestamp": "2026-09-26T22:53:17.354112",
+    "metadata": {
+      "result": "{'zones': 265, 'trips': 10000}"
+    }
+  },
+  "VALIDATE": {
+    "status": "completed",
+    "timestamp": "2026-09-26T22:53:20.187564",
+    "metadata": {
+      "result": "{'timestamp': '2026-09-26T22:53:20.187150', 'validation_stats': {'total_records': 10000, 'valid': 9886, 'invalid': 114, 'suspicious': 0, 'failure_reasons': {'negative_fare': 48, 'zero_distance_valid_waiting': 53, 'zero_distance_invalid': 46, 'time_paradox': 20}}, 'completion_rate': 98.86}"
+    }
+  },
+  "MODEL": {
+    "status": "completed",
+    "timestamp": "2026-09-26T22:53:20.323280",
+    "metadata": {
+      "result": "{'total_trips': 9886, 'valid_trips': 9886, 'suspicious_trips': 0, 'date_range': {'start': '2024-01-01 00:04:00', 'end': '2024-01-30 23:59:00'}, 'trip_types': {'medium_trip': 5140, 'short_trip': 2766, 'long_trip': 1552, 'very_long_trip': 375, 'waiting_charge': 53}, 'peak_hour_trips': 1133, 'weekend_trips': 2553, 'payment_methods': {'Credit Card': 6855, 'Cash': 2507, 'No Charge': 310, 'Dispute': 214}, 'top_pickup_zones': {\"Governor's Island/Ellis Island/Liberty Island\": 113, 'Corona': 67, 'Seaport': 59, 'Hamilton Heights': 55, 'Bellerose': 54, 'Arden Heights': 53, 'West Chelsea/Hudson Yards': 53, 'Lincoln Square East': 53, 'Briarwood/Jamaica Hills': 52, 'Freshkills Park': 50}, 'top_dropoff_zones': {\"Governor's Island/Ellis Island/Liberty Island\": 116, 'Corona': 79, 'Jackson Heights': 53, 'Randalls Island': 52, 'Fordham South': 51, 'Clinton Hill': 50, 'East Harlem North': 50, 'Brownsville': 50, 'Country Club': 50, 'Crotona Park': 50}}"
+    }
+  },
+  "METRICS": {
+    "status": "completed",
+    "timestamp": "2026-09-26T22:53:20.363776",
+    "metadata": {
+      "result": "{'trip_completion_rate': 100.0, 'avg_trip_duration_minutes': np.float64(20.121293089721156), 'revenue_per_mile': np.float64(19.338332562431674), 'peak_hour_utilization': np.float64(11.460651426259357), 'geographic_coverage_quality': 100.0}"
+    }
+  },
+  "OUTPUT": {
+    "status": "completed",
+    "timestamp": "2026-09-26T22:53:20.364871",
+    "metadata": {
+      "result": "{'dashboard_path': '/Users/vanshitmalik/fde-nyc-taxi-pipeline/data/output/dashboard_202401.html'}"
+    }
+  }
+}
