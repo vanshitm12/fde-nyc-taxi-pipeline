@@ -208,7 +208,6 @@ fde-nyc-taxi-pipeline/
 │
 ├── 📋 README.md                      # This file
 ├── QUICKSTART.md                     # 5-minute setup guide
-├── LOOM_VIDEO_GUIDE.md               # Video recording instructions
 └── requirements.txt                  # Python dependencies
 ```
 
@@ -418,13 +417,14 @@ git commit -m "Description of changes"
 git push
 ```
 
-### Areas for Enhancement
+### Future Enhancements
 
-1. **Real-Time Streaming**: Replace batch with Kafka/Flink
-2. **Advanced ML**: Demand forecasting, anomaly detection
-3. **Geographic Visualization**: Interactive maps with Folium
-4. **Weather Integration**: Correlate trips with weather conditions
-5. **A/B Testing Framework**: Test operational interventions
+1. **Real-Time Streaming**: Replace batch with Kafka/Flink for live data processing
+2. **Machine Learning**: Demand forecasting and anomaly detection models
+3. **Geographic Visualization**: Interactive maps with Folium or Deck.gl
+4. **External Data Integration**: Weather, traffic, and event data correlation
+5. **A/B Testing Framework**: Test operational interventions and measure impact
+6. **API Development**: REST API for metric access and pipeline triggering
 
 ---
 

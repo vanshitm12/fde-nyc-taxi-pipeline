@@ -212,18 +212,13 @@ Edit `src/ingestion/fetch_csv.py`:
 
 1. ✅ **Test the pipeline** - Make sure everything runs
 2. ✅ **Push to GitHub** - Create a public repo and push this code
-3. ✅ **Record Loom video** - Follow VIDEO_RECORDING_GUIDE.md
-4. ✅ **Update README** - Add your Loom video link
-5. ✅ **Submit** - GitHub URL + Loom URL
 
 ---
 
 ## 🎥 Recording Your Demo
 
-See **VIDEO_RECORDING_GUIDE.md** for detailed instructions.
 
 **Quick version:**
-1. Open Loom, start screen recording
 2. Show the problem (README)
 3. Explain your zero-distance validation judgment (30 seconds of code walkthrough)
 4. Run the pipeline

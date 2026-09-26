@@ -97,7 +97,6 @@ git push -u origin main
 - ✅ Complete source mapping
 - ✅ Known/Unknown/Assumptions
 - ✅ Quick start guide
-- ✅ Loom video recording guide
 
 ### ✅ Output Files (in `data/output/`)
 ```
@@ -144,7 +143,6 @@ dashboard/advanced_dashboard.py ← Dashboard generator
 1. ✅ Test pipeline is working: `python src/pipeline/main_pipeline.py --reset-checkpoint`
 2. ✅ Open advanced dashboard: `open data/output/dashboard_advanced_202401.html`
 3. ✅ Open validation code: `open src/validation/validators.py` (lines 105-125)
-4. ✅ Read VIDEO_RECORDING_GUIDE.md for detailed script
 
 ### Video Structure (3-5 minutes):
 ```
@@ -157,9 +155,7 @@ dashboard/advanced_dashboard.py ← Dashboard generator
 
 ### Recording:
 1. Sign up: https://www.loom.com (free)
-2. Install Loom desktop app or Chrome extension
 3. Select "Screen + Camera" or "Screen Only"
-4. Follow the detailed script in VIDEO_RECORDING_GUIDE.md
 5. Record, trim if needed, copy link
 
 ---
@@ -182,15 +178,11 @@ dashboard/advanced_dashboard.py ← Dashboard generator
   ```
   Or manually with steps above
 
-- [ ] **Record Loom Video** (3-5 min)
-  - Follow VIDEO_RECORDING_GUIDE.md
   - Focus on zero-distance validation judgment
   - Show the advanced dashboard
 
-- [ ] **Add Loom Link to README**
   ```bash
   # Edit README.md line 116
-  # Replace [Watch on Loom](#) with your actual URL
   git add README.md
   git commit -m "Add demo video link"
   git push
@@ -198,7 +190,6 @@ dashboard/advanced_dashboard.py ← Dashboard generator
 
 - [ ] **Submit Both URLs**
   - ✓ GitHub: https://github.com/vanshitm12/fde-nyc-taxi-pipeline
-  - ✓ Loom: https://www.loom.com/share/YOUR-VIDEO-ID
 
 ---
 
@@ -298,7 +289,6 @@ open data/output/dashboard_advanced_202401.html
 ### 3. Record Video (30 min including practice)
 ```bash
 # Read the guide
-open VIDEO_RECORDING_GUIDE.md
 
 # Practice once, then record
 # 3-5 minutes, focus on zero-distance judgment
@@ -306,7 +296,6 @@ open VIDEO_RECORDING_GUIDE.md
 
 ### 4. Submit (2 min)
 - GitHub URL: https://github.com/vanshitm12/fde-nyc-taxi-pipeline
-- Loom URL: https://www.loom.com/share/YOUR-VIDEO-ID
 
 ---
 
@@ -322,7 +311,6 @@ Your project is:
 
 **Time to submit: 40 minutes**
 - 5 min: Push to GitHub
-- 30 min: Record Loom video
 - 5 min: Submit URLs
 
 ---
@@ -331,7 +319,6 @@ Your project is:
 
 Check these files:
 - `QUICKSTART.md` - 5-minute setup guide
-- `VIDEO_RECORDING_GUIDE.md` - Video recording instructions
 - `README.md` - Complete documentation
 - `docs/source_map.md` - Data source details
 
